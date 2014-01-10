@@ -1,4 +1,4 @@
 TRANSITORIO
 ===========
 
-Transitorio commantato
+Transitorio  commentato
